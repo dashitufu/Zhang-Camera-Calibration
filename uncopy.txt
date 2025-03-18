@@ -1,0 +1,9 @@
+x64
+.vs
+.debug
+.release
+samp.rar
+samp2.rar
+Common_API
+darknet-master
+git
