@@ -7,4 +7,4 @@
 
 3，比晚上Opencv + Ceres 版快20倍
 
-4，如果有Bug，或者想做一切PnP，找我，微信： dashitudu 邮箱： gzrw@qq.com
+4，如果有Bug，或者想做一切PnP，自备雅可比Ceres代码，找我，微信： dashitudu 邮箱： gzrw@qq.com
