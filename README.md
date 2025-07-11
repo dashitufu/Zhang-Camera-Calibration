@@ -11,6 +11,5 @@
 
  	实际上Slam每个问题都有它的稀疏性
 
-  	你没解过方程咋知道解不过鬼子
 
 4，如果有Bug，或者想做一切PnP，自备雅可比Ceres代码，找我，微信： dashitudu 邮箱： gzrw@qq.com
