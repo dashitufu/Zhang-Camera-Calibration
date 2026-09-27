@@ -10,7 +10,7 @@
 	#include "esp_dsp.h"
 #else
 	#include "immintrin.h"
-	#include "../esp_dsp_pc/esp_dsp.h"
+	//#include "../esp_dsp_pc/esp_dsp.h"
 #endif
 
 //สตภýปฏ
